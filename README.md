@@ -78,15 +78,11 @@ The goal is to explore and compare the performance of traditional CNN-based arch
 
 ## 🧾 How to Run
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/pneumonia-detection-using-vit-and-cnn.git
-   cd pneumonia-detection-using-vit-and-cnn
+
 2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+
 3. Run the notebook:
-   ```bash
-   jupyter notebook pneumonia-detection-using-vit-and-cnn.ipynb
+
 
 ## 🙌 Acknowledgements:
 [Kaggle Chest X-Ray Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
